@@ -1,0 +1,11 @@
+
+ .my-logo {
+    width: 120px;
+    height:120px;
+  }
+
+  .my-logo:hover{
+      cursor: pointer;
+  }
+
+ 
